@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.streamlit/secrets.toml
+outputs/*
+!outputs/.gitkeep
+*.mp4
+*.avi
+*.pt
